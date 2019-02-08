@@ -6,7 +6,7 @@ html {
   font-weight:bold;
   color:khaki;
   text-align:center;
-  background-image:url("../Pictures/Pattern.jpeg");
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 h2 {
 font-size:32px;
